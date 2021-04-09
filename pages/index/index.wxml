@@ -1,0 +1,2 @@
+<button bindtap="yinhangka">识别银行卡</button>
+<text>识别的银行卡号：{{number}}</text>

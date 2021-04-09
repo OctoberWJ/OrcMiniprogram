@@ -1,0 +1,2 @@
+<button bindtap="shenfenzheng">识别身份证</button>
+<text>识别的身份证号：{{number}}</text>
